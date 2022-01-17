@@ -11,6 +11,7 @@ m1="jupyter_notebook_c1"
 m2="jupyter_notebook_c2"
 m3="jupyter_notebook_c3"
 
+
 if [ "$2" != "kill" ]
 then
 	#B. Step by  step
