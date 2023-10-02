@@ -1,16 +1,15 @@
 #!/bin/sh
 
 #A. Defining variables
-ku_user="XXXXXX"
-envname="ENVENV"
+ku_user="mb3gv2"
+envname="spacetime"
 c1=$1
-p1="9999"
-p2="8888"
-p3="7777"
+p1="1111"
+p2="2222"
+p3="3333"
 m1="jupyter_notebook_c1"
 m2="jupyter_notebook_c2"
 m3="jupyter_notebook_c3"
-
 
 if [ "$2" != "kill" ]
 then
